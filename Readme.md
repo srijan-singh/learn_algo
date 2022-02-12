@@ -3,11 +3,10 @@
 ## Practical 1-4
 
 ### Objective: Sorting Algorithm
-1. Bubble Sort
-2. Selection Sort
-3. Insertion Sort
-4. Merge Sort
-5. Quick Sort
+1. [Bubble Sort](Program\practical_1.1.cpp), [Selection Sort](Program\practical_1.2.cpp), [Insertion Sort](Program\practical_1.3.cpp)
+2. [Max Heap](Program\practical_2.cpp)
+3. [Merge Sort](Program\practical_3.cpp)
+1. [Quick Sort](Program\practical_4.cpp)
 
 
 ## Practical 5, 6
@@ -32,15 +31,15 @@
 ## Practical 9, 10
 
 ### Objective: MST
-9. Kruskal
+9. [Kruskal](Program\practical_9.cpp)
 10. Prims
 
 
 ## Practical 11, 12
 
 ### Objective: Memoization
-11. Factorial
-12. Fibonacci
+11. [Factorial](Program\practical_11.cpp)
+12. [Fibonacci](Program\practical_12.cpp)
 
 
 ## Practical 14-16
@@ -54,7 +53,7 @@
 ## Practical 17 – 20
 
 ### Objective: Graph Algorithm
-17. DFS
-18. BFS
+17. [DFS](Program\practical_17.cpp)
+18. [BFS](Program\practical_18.cpp)
 19. Cyclic
 20. Topological Sort
