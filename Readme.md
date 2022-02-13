@@ -4,9 +4,10 @@
 
 ### Objective: Sorting Algorithm
 1. [Bubble Sort](https://github.com/srijan-singh/learn_algo/blob/main/Program/practical_1.1.cpp), [Selection Sort](https://github.com/srijan-singh/learn_algo/blob/main/Program/practical_1.2.cpp), [Insertion Sort](https://github.com/srijan-singh/learn_algo/blob/main/Program/practical_1.3.cpp)
+
+### Heap
+
 2. [Max Heap](https://github.com/srijan-singh/learn_algo/blob/main/Program/practical_2.cpp)
-3. [Merge Sort](https://github.com/srijan-singh/learn_algo/blob/main/Program/practical_3.cpp)
-1. [Quick Sort](https://github.com/srijan-singh/learn_algo/blob/main/Program/practical_4.cpp)
 
 
 ## Practical 5, 6
@@ -16,9 +17,16 @@
 6. Square Root
 
 
-## Practical 7
+## Practical 3, 4, 7
 
-### Objective: Inversion Problem Program
+### Objective: Divide and Conquer
+
+3. [Merge Sort](https://github.com/srijan-singh/learn_algo/blob/main/Program/practical_3.cpp)
+4. [Quick Sort](https://github.com/srijan-singh/learn_algo/blob/main/Program/practical_4.cpp)
+
+
+### Merge Sort Extension
+7. Inversion Problem Program
 
 
 ## Practical 8, 13
